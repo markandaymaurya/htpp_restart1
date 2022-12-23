@@ -1,3 +1,4 @@
-192.168.0.2
-192.168.0.3
-
+[web]
+serverb
+[prod]
+servera
